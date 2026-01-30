@@ -15,8 +15,6 @@
     </h4>
 
 <p>
-  <img alt="Ubuntu 24.04 LTS" src="https://img.shields.io/badge/Ubuntu-24.04%20LTS-E95420?logo=ubuntu&logoColor=white">
-  <img alt="ROS 2 Jazzy" src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?logo=ros&logoColor=white">
   <img alt="Nivel" src="https://img.shields.io/badge/Nivel-Introductorio-2ea44f">
 </p>
 
@@ -130,7 +128,7 @@ Permiten que el robot “sienta” el entorno:
 
 ## Referencias
 
-1. ROS 2 Jazzy — Installation (índice): https://docs.ros.org/en/jazzy/Installation.html  
+1. The LEGO Group. (2026). LEGO® MINDSTORMS® EV3 [Product page]. LEGO Official Shop. https://www.lego.com/product/lego-mindstorms-ev3-31313 
 
 
 </div>
