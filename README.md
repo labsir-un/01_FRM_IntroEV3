@@ -115,22 +115,22 @@ Permiten que el robot “sienta” el entorno:
 
 ## Recursos útiles (para seguir aprendiendo)
 
-- Documentación oficial de ROS 2 Jazzy (instalación y tutoriales).
-- Índice de instalación de ROS 2 Jazzy (opciones y plataformas).
-- Guías de ROS 2 para Docker (si trabajas con contenedores).
-- Documentación oficial de VS Code en Linux.
+<details>
+  <summary>🧱🤖 Lego EV3 </summary>
 
----
-
-
+- [Manual Lego EV3](./Lego_Ev3/EV3_user_guide_esmx.pdf)
+- [Lego Mindstorms Ev3](https://www.lego.com/es-es/themes/mindstorms/downloads)
+- [Proyecto LeJos](https://sourceforge.net/projects/lejos/)
+- [Proyecto ev3dev](https://www.ev3dev.org/)
+- [ROS Robot With Lego EV3 and Docker](https://www.instructables.com/ROS-Robot-With-Lego-EV3-and-Docker/)
+- [All the benefits of LEGO® Education solutions](https://education.lego.com/en-us/product-resources/3rd-party-support/3rd-party-support/mindstorms-education-ev3/)
+- [EV-R3P](https://github.com/albmardom/EV-R3P/tree/master)
+- [Modelos CAD](./Lego_Ev3/modelos_CAD/)
+</details>
 
 ## Referencias
 
 1. ROS 2 Jazzy — Installation (índice): https://docs.ros.org/en/jazzy/Installation.html  
-2. ROS 2 Jazzy — Ubuntu (Deb packages): https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html  
-3. Open Robotics — ROS Jazzy Jalisco released: https://www.openrobotics.org/blog/2024/5/ros-jazzy-jalisco-released  
-4. Visual Studio Code — Setup en Linux: https://code.visualstudio.com/docs/setup/linux  
-5. ROS 2 Jazzy — Run nodes in Docker: https://docs.ros.org/en/jazzy/How-To-Guides/Run-2-nodes-in-single-or-separate-docker-containers.html  
-6. Docker Hub — osrf/ros tags: https://hub.docker.com/r/osrf/ros/tags  
+
 
 </div>
